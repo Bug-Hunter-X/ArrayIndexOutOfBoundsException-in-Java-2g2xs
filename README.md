@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating an ArrayIndexOutOfBoundsException and its solution. The bug arises from an off-by-one error in array indexing, attempting to access an element beyond the valid range. The solution corrects this by adjusting the loop's termination condition to prevent accessing the invalid index.
